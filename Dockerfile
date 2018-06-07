@@ -48,3 +48,23 @@ Give grace
 Make it better
 
 Minutia: I turn my light one when I'm in my office, and off when I leave. I close my door when I'm gone for the day.
+
+Think out loud
+
+Think in systems. Long term usually more important than short term.
+
+Make things concrete. Small experiments done quickly. "Fail fast".
+
+Ready. Fire. Aim.
+
+Ask me, don't tell me.
+
+Constantly learning, often aimlessly
+
+Code that doesn't get deployed and add value is a waste
+
+We work with smart people. We treat them that way.
+
+Ask for help. Help others.
+
+The "Rule of 3" (the third time you write something, make it reusable)
