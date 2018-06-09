@@ -9,7 +9,7 @@ to maximize my utility to you, and how to debug me when something breaks.
 
 ## It is my job to:
 
-1. Help you be awesome.
+1. Help you be more awesome.
 
    I care about you as a person first, a team mate second, and an employee a distant last. I
    believe you have unique stengths, and that you will be happiest and most productive in a
