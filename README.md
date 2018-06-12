@@ -1,11 +1,11 @@
 # Working With James
 
-If I sent this to you, we're probably starting to work together. Hello! 
-I'm super excited to learn more about you and to define our professional 
+If I sent this to you, we're probably starting to work together. Hello! I'm
+super excited to learn more about you and to define our professional 
 relationship together.
 
-This is my operating manual. Use it to learn how I (ideally) work, how 
-to maximize my utility to you, and how to debug me when something breaks.
+This is my operating manual. Use it to learn how I (ideally) work, how to 
+maximize my utility to you, and how to debug me when something breaks.
 
 ## It is my job to:
 
