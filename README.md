@@ -9,34 +9,26 @@ to maximize my utility to you, and how to debug me when something breaks.
 
 ## It is my job to:
 
-1. Help you be _more_ awesome.
+1. Help you be _more_ awesome.  
+I care about you as a person first, a team mate second, and an employee a distant last. I believe you have unique stengths, and that you will be happiest and most productive in a position where you can use and grow those strengths. You might not be in that position now; we can change that. That position might not exist; we can change that too.  
+I want to know what you're best at. I want you to know what you most enjoy doing. I will try to maximize the time you spend doing those things. We'll talk about this a lot during 1 on 1 meetings.
 
-   I care about you as a person first, a team mate second, and an employee a distant last. I
-   believe you have unique stengths, and that you will be happiest and most productive in a
-   position where you can use and grow those strengths. You might not be in that position now;
-   we can change that. That position might not exist; we can change that too. 
+2. Create shared context.  
+I expect you to make your own decisions. To make good decisions, you need context. Because we function as a team, yet we all make our own decisions, it is vital that we share a context as much as possible.  
+I do my best to find differings context and unify them. This might be communicating strategy from senior leadership, or simply telling two people they need to talk to each other.
 
-   I want to know what you're best at. I want you to know what you most enjoy doing. I will
-   try to maximize the time you spend doing those things. We'll talk about this a lot during
-   1 on 1 meetings.
-
-2. Create shared context.
-
-   I expect you to make your own decisions. To make good decisions, you need context. Because we
-   function as a team, yet we all make our own decisions, it is vital that we share a context as
-   much as possible.
-
-   I do my best to find differings context and unify them. This might be communicating
-   strategy from senior leadership, or simply telling two people they need to talk to
-   each other.
-
-3. That's it.
-
-   I do a lot of other stuff. Sometimes I even code. I don't consider any of that to be my job.
+3. That's it.  
+I do a lot of other stuff. Sometimes I even code. I consider that work secondary to my _actual_ job.
 
 ## Meetings
 
-TODO
+Every week we'll have a 1 on 1 meeting. This is your time to talk with me about any topic you like. Tell me about your pets. Get feedback on a new idea. You can even give me status updates if you really want. The intention is to use this time build mutual trust and understanding. Our relationship will need those during times of stress. I will usually have a few things to ask you about during 1 on 1's, but the agenda is yours to set.
+
+If you ever want to talk outside of a schedule time, you have options:
+
+1. Stop by my office. I'm usually interruptable, and I don't mind saying "later" in the rare cases I'm not.
+2. Catch me while I'm walking around. I try to check in with everybody at least once a day.
+3. Put something on my calendar. I keep it up to date. Pick any time that's free.
 
 ## How I Communicate
 
@@ -112,61 +104,3 @@ outcomes in all areas.
 
 If I'm physically in my office, my light will be on. If I'm off site or gone for the day, my
 door will be closed (usually). Stop by any time.
-
-## James, as a coworker
-
-## James, as a boss
-
-## James, as an employee
-
-
-
-Relationship philosophy
-
-How to ask questions
-
-1 on 1s. Duration. Agenda. Scheduling.
-
-Feedback (in the moment). Stoplight. Performance Conversations.
-
-
-
-Trust
-
-Work/life balance
-
-People > Process. Own your work. You build it you run it. Remove impediments. Make decisions; get feedback.
-
-
-
-Focus on strengths
-
-Clean as you go
-
-Optimize for happiness. This increases velocity.
-
-Give grace
-
-Make it better
-
-Minutia: I turn my light one when I'm in my office, and off when I leave. I close my door when I'm gone for the day.
-
-
-
-
-
-Make things concrete. Small experiments done quickly. "Fail fast".
-
-Ready. Fire. Aim.
-
-Ask me, don't tell me.
-
-Constantly learning, often aimlessly
-
-Code that doesn't get deployed and add value is a waste
-
-We work with smart people. We treat them that way.
-
-Ask for help. Help others.
-
-The "Rule of 3" (the third time you write something, make it reusable)
