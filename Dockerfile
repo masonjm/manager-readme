@@ -30,15 +30,56 @@ to maximize my utility to you, and how to debug me when something breaks.
    strategy from senior leadership, or simply telling two people they need to talk to
    each other.
 
-## How I communicate
-
-Humor
+## How I Communicate
 
 Strong beliefs, weakly held
 
-Think out loud
+Think out loud. Process verbally. I will try to make "you should do this" statements explicit,
+so don't leave a "processing ideas" conversation thinking you have marching orders.
+
+I have a lot of ideas. Some of them are even good ideas. I often want help figuring out which
+are the ideas worth keeping. Push back when I suggest things. Ask questions. Help me refine
+the idea and ensure I'm not missing something important.
+
+I prefer to give suggestions rather than dictate choices. I will try to make constraints and
+goals explicit, but leave the details up to you. I will sometimes make suggestions on the
+details based on my experience. They are just suggestions.
 
 Think in systems. Long term usually more important than short term.
+
+## How I Work
+
+It's OK to fail. It's more than OK; it's expected. If you aren't regularly failing, you aren't
+aiming high enough. That said, you also need successes. At least occasionally.
+
+It's important to know how resilient any given situation is to failure. I like the "Ready, Fire,
+Aim" metaphor. Ready, Fire, Aim is usually a faster way to hit your target than Ready, Aim, Fire;
+but you end up shooting more bullets and hitting more things that aren't your target. Check down
+range first. Are you going to hit anything sensitive? Do you have enough bullets to spend them
+freely? Most of the time, you're fine to start shooting and adjusting your aim.
+
+## Some Quirks
+
+Ask me for help, don't tell me what to do. It's a much better way to engage me. I have a
+pathological need to help other people, and I respond very poorly to being told what to do.
+
+I need context before I can start. I'm great at listening and at asking questions to get that
+context. If you can't provide enough context, expect the questions. Make sure you leave enough
+time for that. I won't be able to help until I understand the scope of the problem I'm trying
+to solve.
+
+I'm not confrontational. I'm working on this. Pay attention when I tell you something might be
+a bad idea. It's the closest I'll usually come to saying "stop, you're making a mistake." This
+is especially important if you're my boss.
+
+I'm horrible at micromanaging. I'm competent at keeping my own todo list straight, but that's
+my limit. Don't expect me to keep track of your work for you. I *will* put systems in place to
+ensure you're accountable to your team, and that you're clear on what you should be working on
+next.
+
+I believe in transparency, openness, and honesty. I love answering questions almost as much as
+I love asking them. That said, I'm not great at pushing information everywhere it needs to go.
+I'm working on this, too. Please ask questions. Let me know when something is unclear.
 
 ## James, as a coworker
 
