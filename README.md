@@ -134,3 +134,10 @@ one leads to the best outcomes across the board.
 
 If I'm physically in my office, my light will be on. If I'm off site or gone for
 the day, my door will (usually) be closed. Stop by any time.
+
+## That's All
+
+Thanks for reading! I'm really looking forward to working together and getting
+to know each other.
+
+Source: https://github.com/masonjm/manager-readme
