@@ -36,7 +36,7 @@ to my _actual_ job.
 Every week we'll have a 1 on 1 meeting. This is your time to talk with me about
 any topic you like. Tell me about your pets. Get feedback on a new idea. You can
 even give me status updates if you really want. The intention is to use this
-time build mutual trust and understanding. Our relationship will need those
+time to build mutual trust and understanding. Our relationship will need those
 during times of stress. I will usually have a few things to ask you about during
 1 on 1's, but the agenda is yours to set.
 
